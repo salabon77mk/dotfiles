@@ -1,0 +1,50 @@
+open_with 2
+search conf
+rename questions.org
+shell 
+find 
+shell sudo vim 99mate-environment
+shell cp 99mate-environment ~/
+shell rm 99mate-environment
+shell sudo rm 99mate-environment
+touch winKeys.txt
+find light
+shell cp lightdm-gtk-greeter.conf.d ~/
+shell sudo cp lightdm-gtk-greeter.conf.d ~/
+shell sudo cp -r lightdm-gtk-greeter.conf.d ~/Templates
+shell sudo rm -r lightdm-gtk-greeter.conf.d
+shell sudo vim lightdm-gtk-greeter.conf
+rename 
+mkdir P4
+touch 537malloc.h
+touch mem_tree.c
+touch mem_tree.h
+shell make clean
+touch 537malloc.c
+shell vim 537malloc.c 537malloc.h driver.c mem_tree.c mem_tree.h 
+touch queue.c
+touch queue.h
+shell vim mem_tree.h queue.c queue.h
+mkdir wk_1
+mkdir overflow
+touch overflow.cpp
+mkdir ptrace
+touch ptrace.c
+rename z.sh
+wq
+open_with vlc
+mkdir 5_recursive_mult
+mkdir 
+mkdir 7_str_perm_no_dupes
+mkdir 4_subsets
+mkdir 9_parens
+touch main.cpp
+touch stack.cpp
+touch stack.hpp
+rename Parens.java
+note
+search school
+open_with 
+open_with vim
+
+delete
